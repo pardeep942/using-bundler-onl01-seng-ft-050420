@@ -1,6 +1,6 @@
-hashie
-sinatra
-octokit
-pry
-awesomePrint
+"hashie"
+"sinatra"
+"octokit"
+"pry"
+"awesomePrint"
 require_relative '../config/environment'
